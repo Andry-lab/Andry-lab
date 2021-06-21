@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Giggi from the telegram of the youtuber "YoungTech"(ISCRIVETEVI A YOUNGTECH)
+- 👋 Hi, I’m @Giggi.
 - 👀 I’m interested in Computer,Hackintosh and technology
-- 🌱 I’m currently learning on Hackintosh, python
+- 🌱 I’m currently learning on Hackintosh, python , vm and gpu passtrough
 - 📫 How to reach me , go to matigabriandri@gmail.com
 
 <!---
