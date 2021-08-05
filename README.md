@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Giggi.
+- 👋 Hi, I’m @Andry
 - 👀 I’m interested in Computer,Hackintosh and technology
 - 🌱 I’m currently learning on Hackintosh, python , vm and gpu passtrough
 - 📫 How to reach me , go to matigabriandri@gmail.com
